@@ -4,3 +4,12 @@
 @define-color border #000000;
 @define-color foreground #ffffff;
 @define-color background #000000;
+
+window .normal-icons,
+window .item-box,
+window .large-icons {
+    -gtk-icon-size: 0;
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+}
