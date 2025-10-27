@@ -6,7 +6,7 @@
 @define-color background #000000;
 
 window .normal-icons,
-window .item-box,
 window .large-icons {
     -gtk-icon-size: 0;
+    margin: 0;
 }
