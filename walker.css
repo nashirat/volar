@@ -4,9 +4,3 @@
 @define-color border #000000;
 @define-color foreground #ffffff;
 @define-color background #000000;
-
-window .normal-icons,
-window .large-icons {
-    -gtk-icon-size: 0;
-    margin: 0;
-}
